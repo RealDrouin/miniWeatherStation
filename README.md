@@ -33,7 +33,9 @@
 # Schematic
 ![](Images/Schematic_mini%20APRS%20Weather%20Station.png)
 
+# Blynk
 ![](Images/BlynkApp.png)
 
+# API
 ![](Images/api.png)
 
