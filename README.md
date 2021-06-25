@@ -28,6 +28,7 @@
 
 ![](Images/5.png)
 
+# Schematic
 ![](Images/Schematic_mini%20APRS%20Weather%20Station.png)
 
 ![](Images/BlynkApp.png)
